@@ -1,0 +1,9 @@
+Components used in the project:
+
+*Arduino Uno HC-SR04 ultrasonic sensor
+*Hitachi HD44780U 16x2 LCD
+*Piezo disc
+*Push button
+*Resistors:
+    *10kΩ + 4.7kΩ in parallel (for fixed LCD contrast)
+    *220Ω (for LCD LED+, pin 15)
